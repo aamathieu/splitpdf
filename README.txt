@@ -1,0 +1,1 @@
+To install https://www.ghostscript.com/releases/gsdnld.html
