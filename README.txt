@@ -1,4 +1,7 @@
-To install https://www.ghostscript.com/releases/gsdnld.html
+Prerequisities:
+
+To split need pip install PyPDF2
+To compress strong need : https://www.ghostscript.com/releases/gsdnld.html
 
 Example :
 Split : 
